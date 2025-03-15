@@ -1,0 +1,4 @@
+build/
+libevent-2.1.12-stable/
+boost_1_82_0/
+.cache/
