@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ash/git/sokka",
-  "command": "/sbin/c++  -I/home/ash/git/sokka/./libevent-2.1.12-stable/include -I/home/ash/git/sokka/./boost_1_82_0/build/include  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ash/git/sokka/src/main.cpp",
-  "file": "/home/ash/git/sokka/src/main.cpp",
-  "output": "CMakeFiles/main.dir/src/main.cpp.o"
-}
-]
