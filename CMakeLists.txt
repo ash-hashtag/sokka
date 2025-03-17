@@ -31,4 +31,4 @@ target_link_directories(main PRIVATE ${BOOST_ROOT}/stage/lib)
 target_link_libraries(main PRIVATE boost_system boost_filesystem boost_thread  boost_atomic boost_coroutine boost_context)
 target_link_libraries(main PRIVATE pthread crypto ssl)
 
-target_compile_options(main PRIVATE -fcoroutines)
+# target_compile_options(main PRIVATE -fcoroutines)
